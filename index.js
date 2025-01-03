@@ -76,8 +76,9 @@ import { URLs } from './user-data/urls.js';
   } = basics;
   
   // added title of page
+  if (!window.parent.document.title) {
     window.parent.document.title = name;
-  }
+}
   
   /**
    * Populates bio to the HTML page.
