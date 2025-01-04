@@ -605,7 +605,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 author-img img {
-  width: 350px; /* Change this to your desired width */
+  width: 500px; /* Change this to your desired width */
   height: auto; /* Adjust height accordingly */
   object-fit: contain;
   padding: 30px;
