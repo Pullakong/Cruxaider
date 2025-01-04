@@ -51,7 +51,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-	color: #fff;
+	color: #fff !important;
 	outline: none;
 	text-decoration: none !important;
 }
