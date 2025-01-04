@@ -125,7 +125,7 @@ figure figcaption {
 	width: 100%;
 	overflow: hidden;
 	position: relative;
-	background-color: #fff; /* Beispiel-Farbe */
+	background-color: #000000; /* Beispiel-Farbe */
 	background-position: center;
 }
 
