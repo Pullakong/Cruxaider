@@ -76,7 +76,7 @@ import { URLs } from './user-data/urls.js';
   } = basics;
   
   // added title of page
-    window.parent.document.title = Cruxaider Beat5;
+    window.parent.document.title = "Cruxaider Beat5";
   }
   
   /**
