@@ -30,7 +30,7 @@ body {
 	font-weight: 400;
 	font-size: 15px;
 	line-height: 1.8 !important;
-	color: black;
+	color: fff;
 }
 @media screen and (max-width: 992px) {
 	body {
