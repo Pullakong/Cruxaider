@@ -605,6 +605,8 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .author-img {
+	width: 300px;
+	hight: auto;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
