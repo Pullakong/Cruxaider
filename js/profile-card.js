@@ -7,8 +7,7 @@ window.addEventListener("DOMContentLoaded", async function () {
     document.querySelectorAll(".stack-card").forEach(async function (el) {
         const userId = el.getAttribute("user-id");
 
-        const customName = "Cruxaider Beat5"; // Überschreibt den API-Benutzernamen
-renderUser(el, customName, profile_image, link);
+        
         const response = await get(`https://api.stackexchange.com/2.2/users/${userId}?site=stackoverflow`);
         const user = response.items[0];
         const { profile_image, website_url, link, display_name, reputation, user_id } = user;
