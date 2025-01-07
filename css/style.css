@@ -178,7 +178,7 @@ figure figcaption {
 }
 
 #colorlib-aside .author-img img{
-	height: 100%; 
+	height: 250px; 
     object-fit: cover;
 	padding: 30px;
 }
