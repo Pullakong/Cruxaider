@@ -1,6 +1,6 @@
 export const bio = [
   "Hi, I'm Cruxaider Beat5, a passionate beat producer specializing in crafting unique and captivating sounds.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
+  "I bring creativity and energy to every track. Whether you're an artist, content creator, or looking for custom production, I’m here to help bring your vision to life.",
   "Thanks for visiting!",
 ];
 
