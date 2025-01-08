@@ -19,13 +19,13 @@ export const skills = [
   },
   {
     title: "Design",
-    skillName: "Sounddesign, Filmscore",
+    skillName: "Sound design, Film score",
     color: "4",
     percentage: "70",
   },
   {
     title: "Version Control",
-    skillName: "Gamesound, Gamemusik",
+    skillName: "Game sound, Game music",
     color: "7",
     percentage: "70",
   },
