@@ -7,31 +7,31 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "HipHop, Trap, Drill",
     color: "1",
     percentage: "80",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, RxJS, NGRX/NGXS",
+    skillName: "EDM, House, Techno",
     color: "6",
     percentage: "70",
   },
   {
     title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    skillName: "Sounddesign, Filmscore",
     color: "4",
     percentage: "70",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "Gamesound, Gamemusik",
     color: "7",
     percentage: "70",
   },
   {
     title: "Tools",
-    skillName: "Debugging, Chrome DevTools",
+    skillName: "Advertising music, Jingles",
     color: "3",
     percentage: "80",
   },
