@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
+  "Hi, I'm Cruxaider Beat5, a passionate beat producer specializing in crafting unique and captivating sounds.",
   "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
   "Thanks for visiting!",
 ];
