@@ -123,7 +123,7 @@ figure figcaption {
 
 #colorlib-page {
 	width: 100%;
-	overflow: hidden;
+	overflow: auto;
 	position: relative;
 	background-color: #000000; /* Beispiel-Farbe */
 	background-position: center;
