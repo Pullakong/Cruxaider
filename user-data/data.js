@@ -152,7 +152,8 @@ export const experience = [];
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
+    title: "All projects are available in the window displayed above, through the respective platform.",
+    duration: "You may need to sign up",
     subtitle: "National Institute of Technology, Warangal",
     details: [],
     tags: [
