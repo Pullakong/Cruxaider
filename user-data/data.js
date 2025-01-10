@@ -220,8 +220,8 @@ export const footer = [
         link: "https://juncwaves.com/",
       },
       {
-        text: "Github/vinaysomawat.github.io",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Instagram",
+        link: "https://www.instagram.com/cruxaider_beat5?igsh=bGZxYjZpdGhoZDJq",
       },
     ],
   },
