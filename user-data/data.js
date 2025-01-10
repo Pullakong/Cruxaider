@@ -148,30 +148,7 @@ export const projects = {
   ],
 };
 
-export const experience = [
-  {
-    ,
-  },
-  {
-`,
-    ],
-   [
-,
-    ],
-  ,
-  },
-  {
-`,
-    ],
-  ,
-  },
-  {
-   [
-    `,
-    ],
-,
-  },
-];
+
 
 export const education = [
   {
