@@ -227,6 +227,10 @@ export const footer = [
         text: "X",
         link: "https://x.com/CruxaiderBeat5?t=dqjx89hsE1zg4dY7OUEMQ&s=09",
       },
+      {
+        text: "Tiktok",
+        link: "https://www.tiktok.com/@cruxaiderbeat5?_t=ZN-8swOKWNl6vu&_r=1",
+      },
     ],
   },
   {
