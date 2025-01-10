@@ -510,7 +510,7 @@ figure figcaption {
 
 body.offcanvas {
 	overflow-x: hidden;
-	overflow-y: auto;
+	overflow-y: scroll;
 }
 body.offcanvas #colorlib-aside {
 	-moz-transform: translateX(0);
