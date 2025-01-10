@@ -153,8 +153,8 @@ export const experience = [];
 export const education = [
   {
     title: "All projects are available in the window displayed above, through the respective platform.",
-    duration: "You may need to sign up",
-    subtitle: "National Institute of Technology, Warangal",
+    duration: "(You may need to sign up)",
+    subtitle: "You can also reach me through all social media platforms or via Juncwaves Productions.",
     details: [],
     tags: [
       "Data Structures & Algorithms",
