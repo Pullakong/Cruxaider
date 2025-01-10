@@ -153,7 +153,7 @@ export const experience = [];
 export const education = [
   {
     title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
+    
     subtitle: "National Institute of Technology, Warangal",
     details: [],
     tags: [
