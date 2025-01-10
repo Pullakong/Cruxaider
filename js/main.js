@@ -103,8 +103,7 @@
         $(".js-colorlib-nav-toggle").removeClass("active");
       }
 
-      event.preventDefault();
-      return false;
+      
     });
   };
 
