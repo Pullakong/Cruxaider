@@ -223,6 +223,10 @@ export const footer = [
         text: "Instagram",
         link: "https://www.instagram.com/cruxaider_beat5?igsh=bGZxYjZpdGhoZDJq",
       },
+      {
+        text: "X",
+        link: "https://x.com/CruxaiderBeat5?t=dqjx89hsE1zg4dY7OUEMQ&s=09",
+      },
     ],
   },
   {
