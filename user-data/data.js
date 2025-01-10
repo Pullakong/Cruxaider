@@ -156,14 +156,7 @@ export const education = [
     duration: "(You may need to sign up)",
     subtitle: "You can also reach me through all social media platforms or via Juncwaves Productions.",
     details: [],
-    tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
-    ],
+    tags: [],
     icon: "headphones",
   },
   {
