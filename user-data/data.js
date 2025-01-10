@@ -160,11 +160,11 @@ export const education = [
     icon: "headphones",
   },
   {
-    title: "Class 12th in Science and Mathematics",
+    title: "All rights reserved by Juncwaves Productions.",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    subtitle: "",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: [],
     icon: "book",
   },
 ];
