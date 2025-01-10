@@ -7,14 +7,12 @@
     },
   };
 
-  var fullHeight = function () {
-    if (!isMobile.any()) {
-      $(".js-fullheight").css("height", $(window).height());
-      $(window).resize(function () {
-        $(".js-fullheight").css("height", $(window).height());
-      });
-    }
-  };
+var fullHeight = function () {
+  $(".js-fullheight").css("height", $(window).height()); // Auch für Mobilgeräte
+  $(window).resize(function () {
+    $(".js-fullheight").css("height", $(window).height());
+  });
+};
 
   var counterWayPoint = function () {
     if ($("#colorlib-counter").length > 0) {
