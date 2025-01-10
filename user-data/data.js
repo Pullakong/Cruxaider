@@ -164,7 +164,7 @@ export const education = [
       "Compiler Designing",
       "Cloud Computing",
     ],
-    icon: "graduation-cap",
+    icon: "headphones",
   },
   {
     title: "Class 12th in Science and Mathematics",
