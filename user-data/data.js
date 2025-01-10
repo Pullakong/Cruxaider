@@ -216,8 +216,8 @@ export const footer = [
     //     link: "https://twitter.com/thesigmakid",
     //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Juncwaves Productions",
+        link: "https://juncwaves.com/",
       },
       {
         text: "Github/vinaysomawat.github.io",
