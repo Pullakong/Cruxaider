@@ -150,7 +150,7 @@ export const projects = {
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
+    
     duration: "September 2023 - Present",
     subtitle: "Software Engineer",
     details: ["Working in support and escalation team."],
