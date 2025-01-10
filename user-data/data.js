@@ -150,6 +150,11 @@ export const projects = {
 
 export const experience = [
   {
+    
+  
+    details: ["Working in support and escalation team."],
+    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
+    icon: "truck ",
   },
   {
     title: "Biofourmis India Private Limited",
