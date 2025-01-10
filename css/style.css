@@ -135,7 +135,7 @@ figure figcaption {
 	padding-bottom: 1px;
 	float: left;
 	width: 300px;
-	position: fixed;
+	position: relative;
 	z-index: 1001;
 	background-color: #f9bf3f;
 	-webkit-transition: 0.5s;
