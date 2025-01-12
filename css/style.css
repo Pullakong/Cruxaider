@@ -151,7 +151,7 @@ figure figcaption {
 		transform: translateX(-300px);
 		padding-top: 4em;
 		background-color: #f9bf3f;
-		height: auto;
+		height: -webkit-fill-available;
 	}
 	.resume-content img {
 		display: none;
