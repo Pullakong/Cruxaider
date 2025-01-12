@@ -509,7 +509,7 @@ figure figcaption {
 
 body.offcanvas {
 	overflow-x: hidden;
-	overflow-y: auto;
+	
 }
 body.offcanvas #colorlib-aside {
 	-moz-transform: translateX(0);
